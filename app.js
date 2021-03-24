@@ -267,8 +267,7 @@ var controller = (function(budgetCtrl, UICtrl) {
         // CALCULATE AND UPDATE BUDGET
         updateBudget()
         }
-        
-    }
+    };
 
     var ctrlDeleteItem = function(event) {
 
